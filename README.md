@@ -1,4 +1,4 @@
-# Scripts to extract and plot the epectra from hperspectral imagery hdf5 files
+# Scripts to extract and plot the spectra from hyperspectral imagery hdf5 files
 ## Adam Young
 
 Adam.Young [at] nau.edu
